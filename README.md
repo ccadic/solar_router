@@ -1,3 +1,5 @@
+<img src="boardx.jpg">
+
 This is a first POC of solar router
 No doc at the moment.
 GPL 3 licence
